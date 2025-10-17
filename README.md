@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 Conceitos de POO Aplicados
+##  Conceitos de POO Aplicados
 
 | Conceito | Aplicação |
 |-----------|------------|
@@ -23,9 +23,9 @@
 
 ---
 
-## 🧩 Estrutura de Classes
+##  Estrutura de Classes
 
-### 🧱 Classe Abstrata: `Funcionario`
+###  Classe Abstrata: `Funcionario`
 Atributos: `nome`, `salarioBase`  
 Métodos:  
 - `exibirDados()`  
@@ -33,9 +33,9 @@ Métodos:
 
 ---
 
-### 💻 Classe: `Desenvolvedor`
-- Atributo adicional: `nivel` → Junior, Pleno ou
-### 🧑‍🏫 Classe: `Gerente`
+###  Classe: `Desenvolvedor`
+- Atributo adicional: `nivel` → Junior, Pleno ou Senior
+###  Classe: `Gerente`
 - Atributo adicional: `departamento`
 - Regras:
   - Salário final: +30%
@@ -43,7 +43,7 @@ Métodos:
 
 ---
 
-### 🎓 Classe: `Estagiario`
+###  Classe: `Estagiario`
 - Atributos adicionais: `nomeEscola`, `mesesEstagio`
 - Regras:
   - Salário final é apenas o salário base
@@ -51,7 +51,7 @@ Métodos:
 
 ---
 
-## 🪟 Interface (via `JOptionPane`)
+##  Interface (via `JOptionPane`)
 
 O sistema é totalmente interativo e usa janelas gráficas para entrada e saída de dados.  
 Menu principal:
