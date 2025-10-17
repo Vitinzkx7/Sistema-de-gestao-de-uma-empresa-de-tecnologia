@@ -73,9 +73,7 @@ Você pode incluir um **GIF** ou **screenshot** da execução aqui:
 ```bash
 git clone https://github.com/seu-usuario/sistema-funcionarios.git
 
- Licença
-
-Projeto de uso educacional, livre para estudo e modificação.
+ 
 
  Ideias Futuras
 
