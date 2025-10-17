@@ -1,4 +1,4 @@
-# 🧑‍💻 Sistema de Gestão de Funcionários - Empresa de Tecnologia
+# Sistema de Gestão de Funcionários - Empresa de Tecnologia
 
 ![Java](https://img.shields.io/badge/Java-17-red?logo=java)
 ![Maven](https://img.shields.io/badge/Maven-Build-blue?logo=apachemaven)
