@@ -58,7 +58,7 @@ Menu principal:
 
 
 
-## 🖥️ Exemplo de Execução
+##  Exemplo de Execução
 
 Você pode incluir um **GIF** ou **screenshot** da execução aqui:
 
