@@ -54,28 +54,9 @@ Métodos:
 ##  Interface (via `JOptionPane`)
 
 O sistema é totalmente interativo e usa janelas gráficas para entrada e saída de dados.  
-Menu principal:
 
 
-
-##  Exemplo de Execução
-
-Você pode incluir um **GIF** ou **screenshot** da execução aqui:
-
-![preview](docs/preview.gif)
-*(Coloque o arquivo em `/docs/preview.gif` para exibir no README.)*
-
----
-
-##  Como Executar o Projeto
-
-###  Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/sistema-funcionarios.git
-
- 
-
- Ideias Futuras
+# # Ideias Futuras
 
 Persistência em arquivo .json ou .txt
 
